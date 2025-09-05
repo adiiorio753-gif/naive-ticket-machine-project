@@ -23,3 +23,6 @@ Question #13
 Question #14
 Question #15 yes it matters order private int price it placed if you movwe the words around it won't work.
 Question #16 yes without the semicolon it will not work.
+Question #18 student is the class
+Question #19 
+Question #27 the error is that its no longer a statement
