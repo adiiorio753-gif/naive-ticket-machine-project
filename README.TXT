@@ -12,6 +12,7 @@ It is discussed in chapter 2.
 
 Purpose of project: To illustrate the basics of fields, constructors, and methods.
 How to start this project: Create one or more TicketMachine objects.
+
 Question #2 after a picket is perchased the value in 0
 Question #3 No matter the amout of money inserted in the machine the ticket will go throght.
 Question #7 After changing it to class public it no longer works and the tickct machine is blocked off.
