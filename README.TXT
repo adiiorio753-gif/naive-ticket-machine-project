@@ -17,7 +17,7 @@ Question #2 after a picket is perchased the value in 0
 Question #3 No matter the amout of money inserted in the machine the ticket will go throght.
 Question #7 After changing it to class public it no longer works and the tickct machine is blocked off.
 Question #8 if you remove public from the outer wrapper it will still work
-Qutesion #9 if you remove class and are left wityh public it will stop woking
+Qutesion #9 if you remove class and are left with public it will stop woking
 Question #12
 Question #13
 Question #14
